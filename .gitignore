@@ -5,7 +5,10 @@ __pycache__/
 
 # my filter
 .idea/
-images/
+*.jpg
+*.jpeg
+*.png
+*.gif
 *.db
 *.db3
 
